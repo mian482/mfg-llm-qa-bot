@@ -3,7 +3,7 @@
 # MAGIC # Manufacturing QA over Custom Datasets with 🦜️🔗 LangChain and Open Source LLMs on Hugging Face 🤗
 # MAGIC
 # MAGIC The purpose of this notebook is to provide a pattern for the building and deployment of LLMs for a Manufacturing use case.  You may find this notebook on https://github.com/databricks-industry-solutions/mfg-llm-qa-bot.
-
+#
 # COMMAND ----------
 
 # MAGIC %md ##Large Language Models for Manufacturers
